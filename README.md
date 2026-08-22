@@ -30,7 +30,7 @@ Java JDK 8 or higher
 
 ## Running the game
 1. Clone the repository:
-   git clone https://gitlab.com/ru-computer-science/cs-102-project-2025/team_16.git
+   git clone https://github.com/angelSM19/kenken-puzzle-game.git
 
 2. Navigate to the project folder:
    cd kenken_game
