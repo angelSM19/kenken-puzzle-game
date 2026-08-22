@@ -1,0 +1,13 @@
+# Ignore:
+
+# Compiled Java files
+*.class
+
+# Generated game data
+*.dat
+
+# Debug/log files
+*.log
+
+# Empty/temporary files
+java.txt
