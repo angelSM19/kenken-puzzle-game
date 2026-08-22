@@ -25,36 +25,6 @@ The game challenges players’ problem-solving and arithmetic skills and include
 - Object-oriented programming
 - File I/O for saving game progress and scores
 
-## Project Structure
-
-kenken_game/
-├── MainApp.java
-├── game/
-│   ├── core/
-│   │   ├── KenKenCell.java
-│   │   ├── KenKenGamePanel.java
-│   │   ├── KenKenHome.java
-│   │   ├── LevelSelect.java
-│   │   ├── ProgressManager.java
-│   │   ├── ScoreManager.java
-│   │   └── SplashScreen.java
-│   │
-│   ├── data/
-│   │   ├── GridConfig.java
-│   │   ├── PresetBank.java
-│   │   └── SolutionPage.java
-│   │
-│   └── ui/
-│       ├── BackgroundPanelUI.java
-│       ├── GlobalStyles.java
-│       └── RoundedButtonUI.java
-│
-├── resources/
-│   ├── Background.png
-│   └── icon_2.png
-│
-└── .gitignore
-
 ## Requirements
 Java JDK 8 or higher
 
