@@ -82,23 +82,39 @@ Java JDK 8 or higher
 
 # Project Members
 
-Yanga Magaga– Team leader and core logic developer
+This project was developed collaboratively as a team project for our Computer Science course 
 
-Angel Masombuka – Documentation lead and UI developer
+**Yanga Magaga– Team leader and core logic developer**
+   - Led the development and coordination of the project.
+   - Developed the core KenKen gameplay and game panel.
+   - Implemented the level selection structure.
+   - Developed the game cells and puzzle solutions.
+   - Contributed to the core puzzle logic and game functionality.
 
-Masixole Mcoki  – UI and scoring system developer
+**Angel Masombuka – Documentation lead and UI developer**
+   - Led the project's documentation, including the README and supporting documentation.
+   - Developed the main application and home screen.
+   - Designed the overall visual theme of the game.
+   - Developed the colour scheme, backgrounds, fonts and other visual styling.
+   - Contributed to the overall user interface and presentation of the game.
 
-Masixole Mcoki – Front-end developer
+**Masixole Mcoki  – UI and scoring system developer**
+   - Contributed to the game's visual design and colour scheme.
+   - Developed the scoring system used during gameplay.
+   - Implemented player scores and game data.
 
-Rishile Ndlhovu – Tester
+**Nhlanhla Msiza – Front-end Developer**
+   - Developed the game's loading/splash screen.
+   - Contributed to the front-end presentation and user experience.
+
 
 # References
 KenKen was originally created by Tetsuya Miyamoto in 2004.
 
-Johnson, D. (2024, September 3). What is KenKen puzzle? Games Learning Society. Link
+Johnson, D. (2024, September 3). What is KenKen puzzle? Games Learning Society.
 
-KenKen, C. C. (2008). Educational Benefits of KenKen. KenKen Puzzle. Link
+KenKen, C. C. (2008). Educational Benefits of KenKen. KenKen Puzzle.
 
-Oracle. (2023). Java Swing tutorial: Building graphical user interfaces. Link
+Oracle. (2023). Java Swing tutorial: Building graphical user interfaces.
 
 Shortz, W. (2009, February 8). A New Puzzle Challenges Math Skills. The New York Times
